@@ -1497,12 +1497,12 @@ Mohit Bansal</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2401.15977)
 [![Code](https://img.shields.io/github/stars/G-U-N/Motion-I2V.svg?style=social&label=Star)](https://github.com/G-U-N/Motion-I2V)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://cpii.hk/inventions/motion-i2v-consistent-and-controllable-image-to-video-generation-with-explicit-motion-modeling/)
-+ **DragNuwa (Image+text_Traj)**  （16 Aug 2023） <details><summary>Shengming Yin, Chenfei Wu, Jian Liang, et al.</summary>Jie Shi, Houqiang Li, Gong Ming, Nan Duan</details>
++ **DragNUWA: Fine-grained Control in Video Generation by Integrating Text, Image, and Trajectory**  （16 Aug 2023） <details><summary>Shengming Yin, Chenfei Wu, Jian Liang, et al.</summary>Jie Shi, Houqiang Li, Gong Ming, Nan Duan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2308.08089)
 [![Code](https://img.shields.io/github/stars/ProjectNUWA/DragNUWA.svg?style=social&label=Star)](https://github.com/ProjectNUWA/DragNUWA)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://aiartweekly.com/tools/dragnuwa-fine-grained-control-in-video-generation-by-integrating-text-image-and-trajectory)
 
-+ **MCDiff Motion-Conditioned Diffusion Model for Controllable Video Synthesis (Start Frame+Input Strokes)**（27 Apr 2023） <details><summary>Haitao Zhou, Chuang Wang, Rui Nie, et al.</summary>Jinlin Liu, Dongdong Yu, Qian Yu, Changhu Wang</details>
++ **[MCDiff] Motion-Conditioned Diffusion Model for Controllable Video Synthesis**（27 Apr 2023） <details><summary>Haitao Zhou, Chuang Wang, Rui Nie, et al.</summary>Jinlin Liu, Dongdong Yu, Qian Yu, Changhu Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2304.14404)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://tsaishien-chen.github.io/MCDiff/)
 + **SG-I2V: Self-Guided Trajectory Control in Image-to-Video Generation** （25 Feb 2025）<details><summary>Koichi Namekata, Sherwin Bahmani, Ziyi Wu, et al.</summary>Yash Kant, Igor Gilitschenski, David B. Lindell</details>
@@ -1516,12 +1516,12 @@ Mohit Bansal</details>
 + **TrackGo: A Flexible and Efficient Method for Controllable Video Generation** （5 Jan 2025）<details><summary>Haitao Zhou, Chuang Wang, Rui Nie, et al.</summary>Jinlin Liu, Dongdong Yu, Qian Yu, Changhu Wang</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2408.11475)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://zhtjtcz.github.io/TrackGo-Page/)
-+ **Motion Prompting: Controlling Video Generation with Motion Trajectories (frame+track+text)** （03 Dec 2024）<details><summary>Daniel Geng, Charles Herrmann, Junhwa Hur, et al.</summary>Forrester Cole, Serena Zhang, Tobias Pfaff, Tatiana Lopez-Guevara, Carl Doersch, Yusuf Aytar, Michael Rubinstein, Chen Sun, Oliver Wang, Andrew Owens, Deqing Sun</details>
++ **Motion Prompting: Controlling Video Generation with Motion Trajectories** （03 Dec 2024）<details><summary>[CVPR 2025 (Oral)] Daniel Geng, Charles Herrmann, Junhwa Hur, et al.</summary>Forrester Cole, Serena Zhang, Tobias Pfaff, Tatiana Lopez-Guevara, Carl Doersch, Yusuf Aytar, Michael Rubinstein, Chen Sun, Oliver Wang, Andrew Owens, Deqing Sun</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/html/2412.02700v1)
 [![Code](https://img.shields.io/github/stars/showlab/DragAnything.svg?style=social&label=Star)](https://github.com/showlab/DragAnything)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://motion-prompting.github.io/)
 
-+ **InTraGen: Trajectory-controlled Video Generation for Object Interactions (frame+track)** （25 Nov 2024）<details><summary>Zuhao Liu, Aleksandar Yanev, Ahmad Mahmood, et al.</summary>Ivan Nikolov, Saman Motamed, Wei-Shi Zheng, Xi Wang, Luc Van Gool, Danda Pani Paudel</details>
++ **InTraGen: Trajectory-controlled Video Generation for Object Interactions** （25 Nov 2024）<details><summary>Zuhao Liu, Aleksandar Yanev, Ahmad Mahmood, et al.</summary>Ivan Nikolov, Saman Motamed, Wei-Shi Zheng, Xi Wang, Luc Van Gool, Danda Pani Paudel</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.16804)
 [![Code](https://img.shields.io/github/stars/insait-institute/InTraGen.svg?style=social&label=Star)](https://github.com/insait-institute/InTraGen)
 [![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://papers.cool/arxiv/2411.16804)
@@ -1544,7 +1544,6 @@ Mohit Bansal</details>
 + **C-Drag: Chain-of-Thought Driven Motion Controller for Video Generation** （27 Feb 2025）<details><summary>Yuhao Li, Mirana Claire Angel, Salman Khan, et al.</summary>Yu Zhu, Jinqiu Sun, Yanning Zhang, Fahad Shahbaz Khan</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2502.19868)
 [![Code](https://img.shields.io/github/stars/WesLee88524/C-Drag-Official-Repo.svg?style=social&label=Star)](https://github.com/WesLee88524/C-Drag-Official-Repo)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://papers.cool/arxiv/2502.19868v1)
 
 + **DragEntity: Trajectory Guided Video Generation using Entity and Positional Relationships**（14 Oct 2024） <details><summary>Zhang Wan, Sheng Tang, Jiawei Wei</summary></details>
 [![Paper](https://img.shields.io/badge/ACM-b31b1b.svg)](https://arxiv.org/abs/2410.10751)
@@ -1669,7 +1668,7 @@ Mohit Bansal</details>
 + **GEN3C: 3D-Informed World-Consistent Video Generation with Precise Camera Control**（5 Mar 2025） <details><summary>Xuanchi Ren, Tianchang Shen, Jiahui Huang, et al.</summary>Huan Ling, Yifan Lu, Merlin Nimier-David, Thomas Müller, Alexander Keller, Sanja Fidler, Jun Gao</details>
 [![Paper](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.03751)
 [![Code](https://img.shields.io/github/stars/nv-tlabs/GEN3C.svg?style=social&label=Star)](https://github.com/nv-tlabs/GEN3C)
-[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://aiartweekly.com/tools/gen3c-3d-informed-world-consistent-video-generation-with-precise-camera-control)
+[![Project_Page](https://img.shields.io/badge/Project_Page-00CED1)](https://research.nvidia.com/labs/toronto-ai/GEN3C/)
 
 ### 🛤️ + 📸 Traj + Camera
 
